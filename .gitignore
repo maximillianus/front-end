@@ -1,2 +1,19 @@
 # Mac
 .DS_Store
+**/.DS_Store
+
+# node modules
+**/node_modules/
+**/jspm_packages/
+
+# npm cache history
+**/.npm
+
+# env variables
+**/.env
+**/.env.test
+
+# serverless
+**/.serverless/
+
+
